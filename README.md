@@ -1,2 +1,2 @@
-# chelsea
+# SIMPLE CALCULATOR
 calculaor with javascript
